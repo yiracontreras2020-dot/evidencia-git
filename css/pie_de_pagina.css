@@ -1,0 +1,13 @@
+#footer_principal {
+  background: #007a5c;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  border-top: 3px solid #004d39;
+}
+
+small {
+  display: block;
+  margin-top: 10px;
+  font-size: 12px;
+}

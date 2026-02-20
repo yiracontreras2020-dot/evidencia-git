@@ -1,0 +1,20 @@
+#header_principal {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #ccffcc;
+  padding: 10px;
+}
+
+#galeria {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+figure img {
+  margin: 10px;
+  border-radius: 10px;
+  width: 150px;
+  height: 150px;
+}
